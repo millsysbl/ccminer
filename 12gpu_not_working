@@ -1,0 +1,5 @@
+This fork of ccminer doesn't support GPU #11 and #12 
+Using -d 10 and -d 11 it tries to use GPU #0 and GPU #1
+CCMINER 2.2.3 DOES NOT have this issue
+
+https://imgur.com/a/NddR2
